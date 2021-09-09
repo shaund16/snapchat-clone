@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="app">
       <h1>Snapchat</h1>
+      <WebcamCapture />
     </div>
   );
 }
