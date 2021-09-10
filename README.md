@@ -5,5 +5,8 @@ Snapchat clone built with React, Redux, Firebase, Google Auth, React hooks. This
 
 ## Preview 
 ![video](https://user-images.githubusercontent.com/64987681/132910434-7eeddfb0-4d1b-4acb-8a07-fc15da521ad6.gif)
- 
+
+### Demo
+
+https://snapchat-clone-1b0ba.web.app
 
